@@ -2,13 +2,11 @@ html {
   perspective: 800px;
 }
 .mapper {
-  background-color: #ffcccc;
   width: 600px;
   height: 600px;
   position: fixed;
   top: 100px;
   left: 100px;
-  box-shadow: 20px 20px 20px;
 }
 .mapper .cube {
   background-color: rgba(255, 255, 255, 0);
@@ -62,14 +60,17 @@ html {
 }
 .rightMapper {
   position: fixed;
-  right: 100px;
+  margin: 0;
+  padding: 0;
+  left: 30%;
   width: 800px;
   height: 800px;
   top: 25px;
-  background-color: wheat;
-  box-shadow: 20px 20px 20px;
 }
 .rightMapper iframe {
   width: 100%;
   height: 100%;
+  margin: 0;
+  padding: 0;
+  border: medium none;
 }

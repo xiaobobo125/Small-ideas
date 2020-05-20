@@ -10,7 +10,7 @@
 
         body {
             font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
-            background: #79a8ae;
+            /* background: #79a8ae; */
             color: #CFEBE4;
             font-size: 18px;
             line-height: 2;
@@ -130,7 +130,7 @@
     var S = {
         init: function () {
             S.Drawing.init('.canvas');
-            document.body.classList.add('body--ready');
+            // document.body.classList.add('body--ready');
 			//想说的话
             S.UI.simulate("|#countdown 3|LiLi|I'm|BoBo|Nice|to|Meet|You|执子之手|与子偕老|#time");
             S.Drawing.loop(function () {
