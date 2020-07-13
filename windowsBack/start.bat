@@ -1,0 +1,1 @@
+start javaw -jar windows-1.0.jar
