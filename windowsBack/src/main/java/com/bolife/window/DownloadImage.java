@@ -19,7 +19,7 @@ import java.util.*;
  */
 public class DownloadImage {
 
-    private final String filePath = "D:\\Program Files\\backimage\\bg.jpg";
+    private final String filePath = "D:\\Program Files\\backimage\\";
 
     public String getLink(){
         String link = "";
@@ -36,12 +36,15 @@ public class DownloadImage {
     public Boolean dowloadImage(String url,String filePath){
         InputStream in = null;
         FileOutputStream fos = null;
+        File file =  new File(filePath);
+        String[] files = file.list();
+        String fileName = filePath+files.length+".jpg";
         try {
             URL image = new URL(url);
             in = image.openConnection().getInputStream();
             byte[] img = new byte[1024];
             int len = 0;
-            fos = new FileOutputStream(new File(filePath));
+            fos = new FileOutputStream(new File(fileName));
             while ((len = in.read(img)) != -1){
                 fos.write(img,0,len);
             }
@@ -59,12 +62,6 @@ public class DownloadImage {
         return true;
     }
     public static void main(String[] args) {
-        DownloadImage downloadImage = new DownloadImage();
-        File file = new File(downloadImage.filePath);
-        if(file.exists()){
-            file.delete();
-        }
-
         downloadTimer();
     }
 
