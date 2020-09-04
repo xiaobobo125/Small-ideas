@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36185deb-42c6-471e-ab70-cd5a53590fd8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../windowsBack/src/test/java/JsonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windowsBack/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../windowsBack/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windowsBack/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../windowsBack/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windowsBack/src/main/java/com/bolife/window/DownloadImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../windowsBack/src/main/java/com/bolife/window/DownloadImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windowsBack/target/classes/com/bolife/window/DownloadImage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../windowsBack/target/classes/com/bolife/window/DownloadImage$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windowsBack/target/classes/com/bolife/window/DownloadImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../windowsBack/target/classes/com/bolife/window/DownloadImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windowsBack/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../windowsBack/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windowsBack/target/windows-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../windowsBack/target/windows-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windowsBack/windows-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../windowsBack/windows-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../windowsBack/windows.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../windowsBack/windows.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/develop/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\develop\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h1XLLM48j5A29dBMbys0Acqd92" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36185deb-42c6-471e-ab70-cd5a53590fd8" name="Default Changelist" comment="" />
+      <created>1599179514603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599179514603</updated>
+      <workItem from="1599179519610" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="46" key="CommitChangelistDialog2" timestamp="1599179703165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="421" y="46" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1599179703165" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1599179723878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599179723878" />
+  </component>
+</project>
